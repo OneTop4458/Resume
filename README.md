@@ -1,4 +1,5 @@
 # 소개
+<img alt="프로필 사진" src = "https://avatars0.githubusercontent.com/u/40881444?s=460&v=4" width="200">
 
 - 이름 : 이병준
 - Email : byungjun4458@naver.com
