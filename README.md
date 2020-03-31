@@ -10,7 +10,8 @@
 
 - LSware
   - [도제](http://www.smc.hs.kr/crosseditor/binary/images/2016/11/04/20161104194539333_0TUU036R.jpg)
-  - 기간 : 2018.6-
+  `현재는 도제 이수 완료 후 주임으로 재직 중`
+  - 기간 : 2018.6- 현재
 
 # 프로젝트
 ## ComLock <img src ="https://t1.daumcdn.net/cfile/tistory/991AD8375D00F78B19" alt="ComLock 로고" width="30" height="30"/>
@@ -54,7 +55,7 @@ ComLock은 컴퓨터를 잠그고 싶을때 간편하게 컴퓨터를 잠글수 
 - Boost,OpenSSL,OpenSCAP,POCO 등 다양한 오픈소스 라이브러리 사용경험이 있습니다.
 
 # 학력
-- 세명컴퓨터 고등학교 재학 (2017.3-2020.2)
+- 세명컴퓨터 고등학교 졸업 (2017.3-2020.2)
 
 # 활동
 - 2017 삼성전자 주니어 소프트웨어 창작대회 고등부분 참가
